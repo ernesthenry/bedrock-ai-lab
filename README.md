@@ -24,7 +24,7 @@ A production-ready conversational AI application built with Amazon Bedrock, Lang
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ernesthenry/bedrock-ai-lab
 cd bedrock-ai-lab
 ```
 
